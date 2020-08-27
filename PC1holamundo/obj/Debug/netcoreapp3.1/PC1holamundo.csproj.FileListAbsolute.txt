@@ -1,0 +1,13 @@
+C:\Users\PC\Desktop\DesApp\PC1holamundo\bin\Debug\netcoreapp3.1\PC1holamundo.exe
+C:\Users\PC\Desktop\DesApp\PC1holamundo\bin\Debug\netcoreapp3.1\PC1holamundo.deps.json
+C:\Users\PC\Desktop\DesApp\PC1holamundo\bin\Debug\netcoreapp3.1\PC1holamundo.runtimeconfig.json
+C:\Users\PC\Desktop\DesApp\PC1holamundo\bin\Debug\netcoreapp3.1\PC1holamundo.runtimeconfig.dev.json
+C:\Users\PC\Desktop\DesApp\PC1holamundo\bin\Debug\netcoreapp3.1\PC1holamundo.dll
+C:\Users\PC\Desktop\DesApp\PC1holamundo\bin\Debug\netcoreapp3.1\PC1holamundo.pdb
+C:\Users\PC\Desktop\DesApp\PC1holamundo\obj\Debug\netcoreapp3.1\PC1holamundo.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\DesApp\PC1holamundo\obj\Debug\netcoreapp3.1\PC1holamundo.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\DesApp\PC1holamundo\obj\Debug\netcoreapp3.1\PC1holamundo.AssemblyInfo.cs
+C:\Users\PC\Desktop\DesApp\PC1holamundo\obj\Debug\netcoreapp3.1\PC1holamundo.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\DesApp\PC1holamundo\obj\Debug\netcoreapp3.1\PC1holamundo.dll
+C:\Users\PC\Desktop\DesApp\PC1holamundo\obj\Debug\netcoreapp3.1\PC1holamundo.pdb
+C:\Users\PC\Desktop\DesApp\PC1holamundo\obj\Debug\netcoreapp3.1\PC1holamundo.genruntimeconfig.cache
